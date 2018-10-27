@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PierdaPT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_juego">Juego</string>
+    <string name="title_activity_puntajes">Puntajes</string>
+    <string name="title_activity_jugador">Jugador</string>
+
+    <string name="titulo">Juegos Clasicos</string>
+    <string name="subtitulo">Piedra, Papel o Tijera</string>
+    <string name="jugador">Nuevo Jugador</string>
+    <string name="jugar">Nuevo Juego</string>
+    <string name="puntajs">Puntajes</string>
+    <string name="contrincante">Nuevo Contrincante</string>
+    <string name="nombju">Nombre Jugador:</string>
+    <string name="btnaceptar">Aceptar</string>
+    <string name="tituloplay">¡Juego Iniciado!</string>
+    <string name="puntos">Puntos:</string>
+    <string name="btnfin">Finalizar</string>
+    <string name="cpu">CPU</string>
+    <string name="player">Player</string>
+    <string name="btnpiedra">Piedra</string>
+    <string name="btnpapel">Papel</string>
+    <string name="btntijera">Tijera</string>
+    <string name="ganados">Ganados: </string>
+    <string name="perdidos">Perdidos: </string>
+    <string name="empatados">Empatados: </string>
+    <string name="btncpu">¿a? </string>
+</resources>
